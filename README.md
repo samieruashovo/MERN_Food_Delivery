@@ -18,57 +18,72 @@ cd MERN_Food_Delivery
 Install backend dependencies:
 
 cd backend
+
 npm install
+
 Create a .env file in the backend directory and add your environment variables:
 
 MONGODB_CONNECTION_STRING=mongodb+srv://
 
 
 AUTH0_AUDIENCE=
+
 AUTH0_ISSUER_BASE_URL=https://dev-
 
 
 CLOUDINARY_CLOUD_NAME=
+
 CLOUDINARY_API_KEY=
+
 CLOUDINARY_API_SECRET=
 
 FRONTEND_URL=http://localhost:5173
+
 STRIPE_API_KEY=
+
 STRIPE_WEBHOOK_SECRET=
+
 Start the backend server:
 
 npm run dev
+
 The backend server should be running on http://localhost:7000.
 
 # Frontend
+
 Navigate to the frontend directory:
 
 
 cd ..
+
 cd frontend
 
 Install frontend dependencies:
 
 npm install
+
 Create a .env file in the frontend directory and add your environment variables:
 
 VITE_API_BASE_URL=http://localhost:7000
 
 VITE_AUTH0_DOMAIN=
+
 VITE_AUTH0_CLIENT_ID=
+
 VITE_AUTH0_CALLBACK_URL=http://localhost:5173
+
 VITE_AUTH0_AUDIENCE=
 
 Start the frontend development server:
 
 
 npm start
+
 The frontend server should be running on http://localhost:5173.
 
-Usage
-Provide instructions on how to use the application. For example:
 
 Open your browser and navigate to http://localhost:5173.
+
 Register for a new account or log in with an existing account.
 
 #Here are few screenshots of my project:
