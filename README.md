@@ -86,7 +86,7 @@ Open your browser and navigate to http://localhost:5173.
 
 Register for a new account or log in with an existing account.
 
-#Here are few screenshots of my project:
+# Here are few screenshots of my project:
 ![Screenshot_20240626_203724](https://github.com/samieruashovo/MERN_Food_Delivery/assets/84716783/ef7848fe-9e17-4fcf-8fd5-02c290a3f934)
 ![Screenshot_20240626_203747](https://github.com/samieruashovo/MERN_Food_Delivery/assets/84716783/c1bde32b-024c-4396-adc9-d56908cd2953)
 ![Screenshot_20240626_203832](https://github.com/samieruashovo/MERN_Food_Delivery/assets/84716783/80499452-a838-4786-9a11-fe73de5763ed)
