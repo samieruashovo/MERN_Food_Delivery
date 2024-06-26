@@ -11,7 +11,7 @@ MongoDB (https://www.mongodb.com/)
 # Backend
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo.git](https://github.com/samieruashovo/MERN_Food_Delivery.git)
+git clone (https://github.com/samieruashovo/MERN_Food_Delivery.git)
 cd MERN_Food_Delivery
 Install backend dependencies:
 
