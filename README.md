@@ -1,13 +1,14 @@
-![Screenshot_20240626_203929](https://github.com/samieruashovo/MERN_Food_Delivery/assets/84716783/24e68714-afd2-42bc-8113-d4c845209cbb)#Installation
+
+# Installation
 Follow these steps to get a local copy of the project up and running.
 
-##Prerequisites
+## Prerequisites
 Make sure you have the following installed:
 
 Node.js (https://nodejs.org/)
 MongoDB (https://www.mongodb.com/)
 
-#Backend
+# Backend
 Clone the repository:
 
 git clone [https://github.com/your-username/your-repo.git](https://github.com/samieruashovo/MERN_Food_Delivery.git)
@@ -37,7 +38,7 @@ Start the backend server:
 npm run dev
 The backend server should be running on http://localhost:7000.
 
-#Frontend
+# Frontend
 Navigate to the frontend directory:
 
 
